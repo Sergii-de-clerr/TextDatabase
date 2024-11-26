@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDatabase", "TextDatabase.csproj", "{885D79C9-BF5F-4469-BD40-F8D553FBF937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885D79C9-BF5F-4469-BD40-F8D553FBF937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885D79C9-BF5F-4469-BD40-F8D553FBF937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885D79C9-BF5F-4469-BD40-F8D553FBF937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885D79C9-BF5F-4469-BD40-F8D553FBF937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BD91B7-00FB-41C1-AE05-618EB44D94E5}
+	EndGlobalSection
+EndGlobal
